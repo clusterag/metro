@@ -81,6 +81,17 @@ img {
 	background:#FFC029;
 }
 
+
+/*new desktop arrangement*/
+@media screen{
+	.menuitem {
+		
+	}
+}
+
+
+
+
 /* ALL FOLLOWING INTENDED FOR 1366*768 BUT INCOMPLETE
 @media screen{
 	h1 {
