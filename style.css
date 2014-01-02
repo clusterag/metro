@@ -34,54 +34,6 @@ img {
 	border-radius:5%;
 }
 
-#news {
-	background:gray;
-	overflow:hidden;
-}
-
-#titlelink {
-	background:#01295A;
-}
-
-#newsliste {
-	list-style-type:none;
-	font-size:2em;
-	padding:0;
-}
-
-#schulleben{
-	background:#FFC029;
-}
-
-#fachbereiche {
-	background:#FF6205;
-}
-
-#schulprofil {
-	background:#01295A;
-}
-
-#personen {
-	background:#FF2C05;
-}
-
-#kontakt {
-
-}
-
-#orientierungsstufe {
-	background:#FF2C05;
-}
-
-#impressum {
-	background:#0260d2;
-}
-
-#termine {
-	background:#FFC029;
-}
-
-
 /*new desktop arrangement*/
 @media screen{
 	.menuitem {
