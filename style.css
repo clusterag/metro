@@ -37,7 +37,8 @@ img {
 /*new desktop arrangement*/
 @media screen{
 	.menuitem {
-		
+		width:20%;
+		height:25%;
 	}
 }
 
