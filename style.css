@@ -19,27 +19,42 @@ h1 {
 	color:#01295A;
 }
 
+#platzhalter {
+}
+
 img {
-	width:100%;
 }
 
 .menuitem {
 	max-width:100%;
-	border-radius:5%;
-	margin:5%;
 }
 
 .menuitem img {
-	max-width:100%;
-	border-radius:5%;
 }
 
 /*new desktop arrangement*/
 @media screen{
 	.menuitem {
-		width:20%;
+		width:19%;
 		height:25%;
+		margin:0 5px 0 0;
 	}
+
+	#top {
+	}
+
+	#top .menuitem {
+		display:inline-block;
+	}
+
+	#left {
+		float:left;
+	}
+
+	#slider {
+		font-size:53px;
+	}
+
 }
 
 
