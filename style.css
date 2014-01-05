@@ -35,12 +35,18 @@ img {
 /*new desktop arrangement*/
 @media screen{
 	.menuitem {
-		width:19%;
-		height:25%;
-		margin:0 5px 0 0;
+		max-height:19.7%;
+		overflow:hidden;
+		margin:0;
+		background:#000;
+	}
+
+	.menuitem a {
+		font-size:0px;
 	}
 
 	#top {
+		overflow:hidden;
 	}
 
 	#top .menuitem {
