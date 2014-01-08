@@ -35,9 +35,9 @@ img {
 /*new desktop arrangement*/
 @media screen{
 	.menuitem {
-		max-height:19.7%;
+		max-height:20%;
 		overflow:hidden;
-		margin:0;
+		margin:0%;
 		background:#000;
 	}
 
@@ -51,6 +51,7 @@ img {
 
 	#top .menuitem {
 		display:inline-block;
+		width:20%;
 	}
 
 	#left {
