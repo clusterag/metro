@@ -33,6 +33,7 @@ img {
 }
 
 .menuitem img {
+	max-width:100%;
 }
 
 /*new desktop arrangement*/
@@ -66,7 +67,13 @@ img {
 	}
 
 	#left {
+		width:20%;
 		float:left;
+		padding-left:0.7%;
+	}
+
+	#left .menuitem {
+		width:100%;
 	}
 
 	#slider {
