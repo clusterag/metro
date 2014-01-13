@@ -11,12 +11,16 @@ You should have received a copy of the GNU General Public License along with met
 /*general style for the tiles*/
 body {
 	background:#d5d5d5;
+	padding:5%;
 	margin:0;
 }
 
 h1 {
 	font-family:PosterBodoni BT;
 	color:#01295A;
+}
+
+#logo {
 }
 
 #platzhalter {
@@ -37,8 +41,8 @@ img {
 	.menuitem {
 		max-height:15%;
 		overflow:hidden;
-		margin:0%;
-		background:#000;
+		margin:1px;
+		background:gray;
 	}
 
 	.menuitem a {
@@ -51,7 +55,15 @@ img {
 
 	#top .menuitem {
 		display:inline-block;
-		width:15%;
+	}
+
+	#logo {
+		width:20.7%;
+	}
+
+	#platzhalter {
+		width:20%;
+		max-height:13%;
 	}
 
 	#left {
